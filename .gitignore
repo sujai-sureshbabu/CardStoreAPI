@@ -3,3 +3,5 @@
 ################################################################################
 
 /CardStoreAzureAPI/obj
+/CardStoreAzureAPI/bin
+/.vs/CardStoreAzureAPI/v16/Server/sqlite3
